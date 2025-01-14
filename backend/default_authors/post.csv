@@ -1,0 +1,21 @@
+titolo,contenuto,data_di_pubblicazione,email_autore,categoria,cover
+Introduzione a React,Questa è una breve introduzione a React...,2023-10-26,mario.rossi@esempio.com,Frontend,https://picsum.photos/id/200/600/400
+Guida a JavaScript,JavaScript è un linguaggio di scripting...,2023-10-25,anna.verdi@esempio.net,Frontend,https://picsum.photos/id/201/600/400
+Node.js per principianti,Node.js è un ambiente di runtime JavaScript...,2023-10-24,giuseppe.bianchi@esempio.org,Backend,https://picsum.photos/id/202/600/400
+Come usare CSS,CSS è un linguaggio per la formattazione...,2023-10-23,laura.neri@esempio.it,Frontend,https://picsum.photos/id/203/600/400
+Le basi di HTML,HTML è il linguaggio di markup per la creazione...,2023-10-22,mario.rossi@esempio.com,Frontend,https://picsum.photos/id/204/600/400
+Programmazione asincrona in JavaScript,La programmazione asincrona è un concetto...,2023-10-21,anna.verdi@esempio.net,Frontend,https://picsum.photos/id/205/600/400
+Un'analisi su MongoDB,MongoDB è un database NoSQL orientato ai documenti...,2023-10-20,giuseppe.bianchi@esempio.org,Backend,https://picsum.photos/id/206/600/400
+Consigli per il SEO,L'ottimizzazione per i motori di ricerca (SEO)...,2023-10-19,laura.neri@esempio.it,Web Marketing,https://picsum.photos/id/207/600/400
+React Hooks in dettaglio,I React Hooks sono funzioni che permettono...,2023-10-18,giovanni.gialli@esempio.com,Frontend,https://picsum.photos/id/208/600/400
+Frameworks JavaScript moderni,Esistono diversi frameworks JavaScript moderni...,2023-10-17,francesca.azzurri@esempio.net,Frontend,https://picsum.photos/id/209/600/400
+Introduzione a Express.js,Express.js è un framework web per Node.js...,2023-10-16,roberto.marroni@esempio.org,Backend,https://picsum.photos/id/210/600/400
+Sicurezza nelle applicazioni web,La sicurezza è un aspetto fondamentale...,2023-10-15,elena.celesti@esempio.it,Sicurezza,https://picsum.photos/id/211/600/400
+Test automatizzati in JavaScript,I test automatizzati sono essenziali per...,2023-10-14,simone.grigi@esempio.com,Test,https://picsum.photos/id/212/600/400
+Ottimizzazione delle performance web,L'ottimizzazione delle performance è cruciale...,2023-10-13,alessandra.arancio@esempio.net,Performance,https://picsum.photos/id/213/600/400
+Database relazionali vs. NoSQL,I database relazionali e NoSQL presentano...,2023-10-12,luca.viola@esempio.org,Database,https://picsum.photos/id/214/600/400
+Architettura RESTful,L'architettura RESTful è uno stile architetturale...,2023-10-11,sofia.magenta@esempio.it,Backend,https://picsum.photos/id/215/600/400
+Sviluppo di API con Node.js,Le API (Application Programming Interfaces)...,2023-10-10,antonio.oro@esempio.com,Backend,https://picsum.photos/id/216/600/400
+Introduzione a TypeScript,TypeScript è un superset di JavaScript...,2023-10-09,chiara.argento@esempio.net,Frontend,https://picsum.photos/id/217/600/400
+Design Patterns in JavaScript,I design patterns sono soluzioni riutilizzabili...,2023-10-08,matteo.platino@esempio.org,Programmazione,https://picsum.photos/id/218/600/400
+Come debuggare il codice JavaScript,Il debugging è un'abilità fondamentale...,2023-10-07,mario.rossi@esempio.com,Sviluppo,https://picsum.photos/id/218/600/400
